@@ -1,0 +1,3 @@
+http://guarded-caverns-53690.herokuapp.com/
+
+https://github.com/HabbyTalor/rottenpotatoes-rails-intro
